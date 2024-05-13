@@ -117,7 +117,7 @@ img{
     font-weight:400;
     font-size:20px;
     line-height:30px;
-    color:#000060;
+    color:rgb(21,147,148);
     display:inline-block;
     margin-bottom:10px
 }
@@ -963,7 +963,7 @@ img{
     fill:#fff
 }
 .features-slider .s-title-wrap span{
-    color:#01ce87;
+    color:rgb(21,147,148);
     font-size:20px;
     font-weight:400;
     line-height:normal;
@@ -5063,7 +5063,7 @@ footer .footer-cr .footer-cr-container ul.cr-menu li:last-child{
     padding-bottom:120px
 }
 .about-s7 .s-sub-title,.about-s8 .s-sub-title{
-    color:#01ce87
+    color: rgb(21,147,148);
 }
 .about-s7 .s-title,.about-s8 .s-title{
     color:#1c1c1c
@@ -5248,7 +5248,6 @@ footer .footer-cr .footer-cr-container ul.cr-menu li:last-child{
     font-weight:800;
     font-size:40px;
     line-height:50px;
-    text-decoration-line:underline;
     color:#fff;
     margin-bottom:60px;
     width:52%;
@@ -6002,7 +6001,7 @@ footer .footer-cr .footer-cr-container ul.cr-menu li:last-child{
     background:linear-gradient(138.5deg,rgba(80,59,238,0.3) 7.14%,rgba(76,138,235,0.3) 93.14%)
 }
 .portfolio-detail__main .image-slider-s1 .slick-dots li.slick-active{
-    background:linear-gradient(45deg,rgb(94,64,251) 0%,rgb(78,149,237) 100%)
+    background:linear-gradient(45deg,rgb(21,147,148) 0%,rgb(23, 192, 194) 100%)
 }
 .portfolio-detail__main .portfolio-challenges{
     margin-top:40px
@@ -6056,7 +6055,7 @@ footer .footer-cr .footer-cr-container ul.cr-menu li:last-child{
     color:#535353
 }
 .contact-detail-box .info-list li a svg{
-    color:#000060
+    color:rgb(21,147,148)
 }
 body#home-2{
     background-color:#020314
