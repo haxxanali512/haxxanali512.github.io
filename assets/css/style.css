@@ -462,9 +462,9 @@ img{
         transform:translateY(-12px)
     }
 }
-.floating{
+/* .floating{
     animation:float 1s ease-in-out 0s infinite alternate none
-}
+} */
 @keyframes spin{
     0%{
         transform:rotate(0deg) translateY(0px)
