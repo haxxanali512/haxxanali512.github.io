@@ -5804,7 +5804,7 @@ footer .footer-cr .footer-cr-container ul.cr-menu li:last-child{
     margin-bottom:15px
 }
 .service-detail-side .service-c-list .c-list li a .icon{
-    background:linear-gradient(45deg,rgb(94,64,251) 0%,rgb(78,149,237) 100%);
+    background:linear-gradient(45deg, rgb(21, 147, 148) 0%, rgb(19 176 177) 100%);
     display:inline-block;
     width:32px;
     height:32px;
@@ -7693,7 +7693,8 @@ body#blog .b-pagination{
         z-index:-1
     }
     .sponsers-slider-s1 .sponsers-container,.sponsers-slider-s2 .sponsers-container{
-        grid-template-columns:1fr 1fr
+        grid-template-columns:1fr 1fr;
+        margin-left: -4rem;
     }
     .sponsers-slider-s1 .sponsers-container .s-sponser,.sponsers-slider-s2 .sponsers-container .s-sponser{
         margin-bottom:25px
